@@ -11,3 +11,7 @@
 li{
     margin-bottom: 20px;
 }
+#image{
+    max-width: 90%;
+    height: auto;
+}
