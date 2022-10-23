@@ -13,5 +13,7 @@ li{
 }
 #image{
     max-width: 90%;
+    margin: auto;
     height: auto;
+    display: block;
 }
